@@ -1,0 +1,69 @@
+账号验收
+印度账号验收
+1. Gmail 23年12月18号注册
+2. 开发者账号、25刀支付 1月19号
+3. 身份证图片vps上没找到，身份证图片还未提供，提供后做记录
+4. 开发者名称：BREZZA TECHNOLOGIES PRIVATE LIMITED
+5. 公司名：BREZZA TECHNOLOGIES PRIVATE LIMITED
+6. 公司类别：Industry: Employment Services ,  Computer Systems Design and Related Services ,  Other Financial Investment Activities ,  Placement agencies ,  Computer related services, nec ,  Investment advice Computer software development
+7. D-U-N-S：860374295 （DUNS官网链接：https://www.dnb.com/business-directory/company-profiles.brezza_technologies_private_limited.10798fe43d451c78e17066cda16fc650.html）
+8. 手机号：+918861772301
+
+
+待测试点
+1. 紧急联系人选择
+	--去重
+	--0\91开头
+	--去掉开头后，手机号长度
+2. 基本信息按钮点击
+
+
+https://sweetmoney1.ocinapp.com/?p0=18dd5ezg&p1=campaign_name&p2=campaign_id&p3=adset_name&p4=adset_id&p5=ad_name&p6=ad_id&fbclid=fbclid_123&#/secureloan
+
+
+
+unhandledrejection_undefined
+error_Script error.__0_0_null
+unhandledrejection_ReferenceError: data is not defined
+TypeError: Cannot read properties of undefined (reading 'text')1
+unhandledrejection_TypeError: Cannot read property 'phone' of undefined
+unhandledrejection_TypeError: Cannot read properties of undefined (reading 'phone')
+
+axios error_AxiosError: Network Error
+AxiosError: Network Error6
+unhandledrejection_AxiosError: Network Error
+unhandledrejection_AxiosError: Request aborted
+
+'registerSuccess', 'otherSubmit', 'contactSubmit', 'basicIn', 'basicSubmit', 'photoClick', 'picSubmit', 'cardSubmit', 'forceApplyIn', 'apiSubmit'
+
+
+75、169、188、189、188、188、188、173、182、36
+
+
+
+
+704_/v1/products/promotionList_
+700_/v1/update_
+unhandledrejection_undefined
+704_/v1/orders_
+TypeError: Cannot read properties of undefined (reading 'text')1
+unhandledrejection_AxiosError: Network Error
+704_/v1/user/bindBankCard_
+error_Script error.__0_0_null
+704_/v1/user/acc/ocr/aadhaarFront_
+unhandledrejection_AxiosError: timeout exceeded
+701_/v1/login_
+axios error_AxiosError: Network Error
+AxiosError: Network Error6
+703_/v1/login_
+703_/v1/login/vcode_
+703_/v1/login/oneClick_
+705_/v1/user/runtime_
+axios error_AxiosError: timeout exceeded
+701_/v1/orders_
+
+
+
+
+
+

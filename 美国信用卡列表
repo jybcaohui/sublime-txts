@@ -1,0 +1,77 @@
+信用卡管家
+Credit card manager
+Manajer kartu kredit
+administrador de tarjetas de crédito
+
+Gestión Tarjetas 卡片管理
+appName：
+信用卡管理
+卡片管理-Card
+	添加/编辑：图标、银行、还款日、提醒（到期日前x天提醒-结合系统日历）
+	删除
+记账单-Bill
+	记一笔：收入/支出、金额、卡片/其他、备注
+	列表
+还款提醒-Remind
+	列表：（卡片、日期、删除）
+
+
+技术：
+sqlite数据库
+日历管理
+导入/导出数据库（扩展）
+
+
+美国信用卡列表
+
+Chase Freedom Unlimited（摩根大通自由无限卡）
+Chase Sapphire Preferred Card（摩根大通蓝宝石优先卡）
+Bank of America Cash Rewards Credit Card（美国银行）
+Bank of America Premium Rewards Credit Card（美国银行高级奖励信用卡）
+Citi Double Cash Card（花旗双倍现金返还卡）
+Citi Premier Card（花旗精英卡）
+Wells Fargo Active Cash Card（富国银行活跃现金卡）
+Wells Fargo Propel American Express Card（富国银行推进美国运通卡）
+American Express Blue Cash Preferred Card（美国运通蓝现金优选卡）
+Blue Cash Everyday Card from American Express（美国运通日常蓝现金卡）
+Discover it Cash Back（发现现金回馈卡）
+Discover it Miles（发现里程卡）
+Capital One Quicksilver Cash Rewards Credit Card（第一资本快银现金回馈信用卡）
+Capital One Venture Rewards Credit Card（第一资本冒险奖励信用卡）
+US Bank Altitude Go Visa Signature Card（美国合众银行高度Go Visa签名卡
+Barclays Arrival Plus World Elite Mastercard（巴克莱抵达+世界精英万事达卡）
+Truist Momentum Visa Signature Credit Card（Truist动力Visa签名信用卡）
+
+
+
+
+Amex Blue Cash Everyday
+Amex EveryDay
+Smex Gold
+Amex Hilton Aspire
+Amex Hilton Honors
+BoA Customized Cash Rewards
+CapitalOne Savor One
+Chase Freedom Flex
+Chase Freedom Unlimited
+Chase IHG Traveler
+Chase Marriott Boundless
+Chase World of Hyatt
+Citi Costco
+Citi Custom Cash
+Citi Premier
+Citi Rewards
+Discover it
+Freedom Rise Alt Card
+IHG Rewards Club Premier 
+US Bank Altitude Go
+Wells Fargo Active Cash
+
+
+
+
+
+
+
+
+

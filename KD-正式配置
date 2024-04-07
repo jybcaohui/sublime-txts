@@ -1,0 +1,179 @@
+bean（package下Bean重命名，以及get接口写在代码中的）
+api-path 已修改
+survey.act
+接口路径:  https://kd725.com
+adjust_key:  gsxlst1wfl6o
+产品icon路径： https://kd725.com/fsci/vlxeyfrgs/ylpgknueg/bblfbf/dxvcekxbz/
+隐私政策url： https://www.krediteasydana.com/privacy/
+联系我们url： https://www.krediteasydana.com/contact.html
+测试手机号： 8201138284
+测试产品： Pinjam Yuk
+测试产品logo： 80fb56a28fa24276b5367de82d1d19b0（完整地址：https://kd725.com/fsci/vlxeyfrgs/ylpgknueg/bblfbf/dxvcekxbz/80fb56a28fa24276b5367de82d1d19b0）
+x-app-token: 换为 x-63667
+Response code: 701 换为 4201 （token失效状态）
+survey.pageName （暂未提供）
+
+
+产品图标拼接
+val split = url?.split("/")
+return "产品icon路径/${split?.get(split.size - 1)}"
+
+
+
+问题记录
+1. 缺失埋点：applySuccPosition
+2. 每一步提交，调用接口过程中，需要有loading，不然用户可以多次点击
+
+
+
+
+survey.act
+{
+    // seed = kreditdana
+    "0rj":     "apiClickProduct",
+    "d":       "apiSubmit",
+    "uoe":     "apiSubmit_user",
+    "ek":      "applyBaseInfo",
+    "k":       "applyBaseInfoKtp",
+    "23u":     "applyBindBankCard",
+    "i3mox1":  "applyEmergencyInfo",
+    "16flpsy": "applyOtherInfo",
+    "8c4zr03": "applySuccPosition",
+    "rnw6tv":  "backUp",
+    "1rgz2":   "bannerClick",
+    "qh":      "basicIn",
+    "hbs":     "basicSubmit",
+    "hrwiu50": "basicSubmitFail",
+    "07tk":    "batchApplySelect",
+    "7b90":    "buttonClick",
+    "smw":     "camera",
+    "nq6":     "cameraBack",
+    "26d79z":  "cameraComplete",
+    "q8":      "cameraDestroy",
+    "tjnvwsp": "cameraFocus",
+    "ty2":     "cameraImageSaved",
+    "iuwpr7z": "cameraInitSuc",
+    "6ny":     "cameraPhotoSelect",
+    "x39bkin": "cameraTakePhoto",
+    "gk":      "cantApply",
+    "lzqkaer": "cardSubmit",
+    "kq":      "cardSubmitFail",
+    "is65lp3": "chooseBankcard",
+    "lgc":     "clickLogin",
+    "n6qul":   "clickLogout",
+    "r7":      "clickReloan",
+    "e3rs5":   "clickSetting",
+    "1mpyfc":  "codeWrong",
+    "v5ij6yg": "contactSubmit",
+    "v2ie3k8": "editBankCard",
+    "b":       "enterRiskMind",
+    "z2kmba1": "feedback",
+    "2bg":     "forceApply",
+    "8s69wmv": "forceApplyIn",
+    "3t0i79":  "forceApplySelect",
+    "093ykux": "getApiProduct",
+    "285sbe4": "getDeviceInfo",
+    "2cz":     "getMediaSource",
+    "2":       "getVerifyCode",
+    "8":       "getVerifyCodeFail",
+    "gt":      "home",
+    "ir7pkb":  "idelay",
+    "m":       "in",
+    "xpk4":    "ipay",
+    "t":       "liveSubmit",
+    "4p9s8":   "liveSubmitFail",
+    "d2xg":    "login",
+    "f37g1q":  "loginBack",
+    "x25ary":  "loginFail",
+    "m4fbul":  "loginInput",
+    "w6":      "loginProtocol",
+    "4pl":     "loginProtocolBack",
+    "w5yri83": "loginSuccess",
+    "ks6wv":   "loginSuccessAll",
+    "l8z93":   "loginSuccessOld",
+    "wf2":     "media_source",
+    "1":       "mine",
+    "2y63":    "modifyBank",
+    "1o7bh":   "myOrder",
+    "qh5v":    "oneClickApply",
+    "4":       "oneKeyApplyFromBanner",
+    "0":       "orderCheck",
+    "rd":      "orderDetail",
+    "5i3kltx": "orderList",
+    "eruj":    "otherSubmit",
+    "x9034cs": "otherSubmitFail",
+    "d7":      "payConfirm",
+    "b9dm":    "payDelayDetail",
+    "cfz9bpu": "payDetail",
+    "90hgcd3": "payPopShow",
+    "x":       "photoClick",
+    "lt7f2b":  "picSubmit",
+    "zpjt3o":  "picSubmitFail",
+    "ple":     "privacy",
+    "sqx3":    "pushReady",
+    "871lm":   "recommendNum",
+    "9xnjkf":  "registerSuccess",
+    "f":       "riskMind",
+    "vs5waq8": "riskMindtoOrderPage",
+    "iys8nox": "scoreCompleted",
+    "20q":     "scoreException",
+    "ul8v":    "scoreFailed",
+    "o8":      "scoreFinish",
+    "j":       "scorePopup",
+    "2rycjsq": "scoreStart",
+    "8b":      "scoreSuccess",
+    "der":     "setting",
+    "k3":      "welcome",
+}
+
+payChoose
+applyContactPeople
+apiClickProductCanApply
+uploadImgClick
+uploadImgError
+uploadImgSuccess
+ocrComplete
+ordersStatusFromBannerClick
+oldForceDialogApply
+oldForceNum
+
+
+
+reapplyExposure\reapplyClick\recommendNum code
+
+
+
+
+kdstore123
+kdstore123
+kdalias
+
+
+MENANG GANDA SENTOSA
+Jakarta
+
+
+
+
+
+keytool -list -v -keystore "keystore.jks" 
+密码：kdstore123
+
+
+PT Ammana Fintek Syariah
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
