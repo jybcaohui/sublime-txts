@@ -1,0 +1,34 @@
+印尼EU提包补充信息表单
+
+开发者名称
+CV. SYAMALL ABADI JAYA
+
+是否有人代表您注册了此开发者帐号？如果是，请说明原因。 *
+No
+
+
+
+我们的应用不会因用户的地理位置或语言而异，我们只服务印尼用户。
+我们的核心功能是为用户提供优质的贷款推荐服务。
+用户填写手机号、姓名、身份证、教育程度、工作类型、月收入、贷款目的等这些信息后，
+通过我们应用内置的风控模型分析用户填写的以及我们通过应用获取的用户的设备信息（位置信息、已安装程序列表、设备类型、操作系统、唯一设备标识符、网络信息）
+计算出用户的风控分数，根据风控分数推荐出适合用户的贷款产品，我们只做产品推荐不直接提供贷款服务。
+
+Our app does not vary based on the user's location or language, we only serve Indonesian users. 
+Our core function is to provide users with high-quality loan recommendation services.
+After the user fills in information such as mobile phone number, name, ID card, education level, job type, monthly income, loan purpose, etc., our application’s built-in risk control model analyzes the user’s device information filled in by the user and the user’s device information we obtain through the application(location information, installed program list, device type, operating system, unique device identifier, network information) Calculate the user's risk control score and recommend loan products suitable for the user based on the risk control score. We only recommend products and are not direct Provide loan services.
+
+
+用户数据、三方SDK：
+图片加载：glide
+事件发布/订阅框架：evnetbus
+网络请求框架：okhttp
+分析：firebase
+权限管理：permissionx
+
+
+我们严格遵守“用户数据”政策，我们会对第三方代码及SDK进行严格审查，确保我们使用的三方代码及SDK都符合Google Play开发者计划政策。
+
+
+修改应用描述
+我们只做产品推荐不直接提供贷款服务

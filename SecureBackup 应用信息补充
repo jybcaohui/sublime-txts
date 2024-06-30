@@ -1,0 +1,16 @@
+SecureBackup 应用信息补充
+No, all user functions are the same.
+The Secure Backup application is a data backup and recovery tool application. Users can back up call records, text messages, and contact data to the mobile phone storage so that the data can be restored to its original state when needed. Call records, text messages, and contact data are only stored in the phone's storage in the form of text and will not be uploaded to the network. Users can export the text from the phone's storage for viewing or editing. Users can use the secure backup application to transfer the data at any time. Import to mobile phone to recover call history, text messages, contacts.
+
+We requires the following permissions：READ_CALL_LOGS & WRITE_CALL LOGS、READ_SMS
+、READ_CONTACTS & WRITE_CONTACTS，Without these permissions we will not be able to provide services to you.
+
+Our services are provided solely for your convenience. We will never use your data for any purpose. Your backup data will not be uploaded to the network.
+
+网络请求框架：okhttp、rxjava
+图片加载：glide
+事件发布/订阅框架：evnetbus
+权限管理框架：permissionx
+
+
+我们严格遵守“用户数据”政策，我们会对第三方代码及SDK进行严格审查，确保我们使用的三方代码及SDK都符合Google Play开发者计划政策。
